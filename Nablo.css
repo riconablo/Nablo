@@ -1,0 +1,14 @@
+p {
+
+    padding: 5px;
+    margin: 10px;
+    border: 5px solid green;
+    width: fit-content;
+    border-radius: 20px;
+    background-color: skyblue;
+    border-top-color: chocolate;
+    border-bottom-color: blueviolet;
+    font-size: 15px;
+
+
+}
